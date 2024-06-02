@@ -1,5 +1,7 @@
-# (Title)
-(Short description)
+# Photo Booth
+This is a photo booth made in TOuch Designer, following the "Listen, Think, Speak". The video device input "listens" 
+Through Touch Designer, the visual data is processed and the colors are modified, therefor "Thinking"
+The "Speak" part is the saved file once the Photo Booth is triggered
 
 ## (Installing)
 ...
